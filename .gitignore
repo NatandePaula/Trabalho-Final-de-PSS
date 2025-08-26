@@ -1,0 +1,34 @@
+# Arquivos compilados Java
+*.class
+
+# Diretórios de build
+target/
+build/
+
+# Arquivos de IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de banco de dados
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos de configuração local
+config.local.properties
